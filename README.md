@@ -1,1 +1,1 @@
-# ITSkillsProject dit is een project voor ITSkils
+# ITSkillsProject: dit is een project voor ITSkils
